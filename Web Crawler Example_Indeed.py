@@ -174,7 +174,7 @@ print(driver.current_url)
 # driver.quit()
 
 
-# ## Indeed Data Scrapy, example from BaiLin
+# ## Indeed Data Scraping. Example from BaiLin!
 
 # In[24]:
 
