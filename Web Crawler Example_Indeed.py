@@ -174,7 +174,7 @@ print(driver.current_url)
 # driver.quit()
 
 
-# ## Indeed Data Scrapy
+# ## Indeed Data Scrapy, example from BaiLin
 
 # In[24]:
 
@@ -304,7 +304,7 @@ if __name__ == "__main__":
 # In[ ]:
 
 
-# Example
+# Example from class
 
 from urllib2 import Request, urlopen
 from selenium import webdriver
