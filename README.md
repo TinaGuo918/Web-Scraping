@@ -1,3 +1,3 @@
 # Web Crawler
 
-## Here is an example of how to extracte the data from indeed.
+### An example of how to extracte the data from Indeed.
