@@ -172,3 +172,5 @@ if __name__ == "__main__":
     df = pd.concat(dfs, ignore_index=True) 
     df.to_excel('ny_ds_job.xlsx', index=False)
 
+
+    # reference: https://github.com/linbaiwh/Web-Scraper-Samle/blob/main/JD_crawler.py
